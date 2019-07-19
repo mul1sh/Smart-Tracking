@@ -6,4 +6,4 @@ It also allows companies to acquire new assets from other companies in the platf
 
 # Technology
 
-Thius app is build on top of the wonderful bytom blockchain ecosystem. It has 2 components a vue.js web app  which can be easily accesbile via the internet and a seperate android mobile app which can be used to access system from a mobile device.
+This app is build on top of the wonderful bytom blockchain ecosystem. It has 2 components a vue.js web app  which can be easily accesbile via the internet and a seperate android mobile app which can be used to access system from a mobile device.

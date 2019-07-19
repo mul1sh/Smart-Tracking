@@ -1,0 +1,3 @@
+contract AssetsContract() SatAmount locks valueAmount of SatAsset{
+	
+}
